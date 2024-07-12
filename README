@@ -1,0 +1,9 @@
+A simple enough script to collect Bluetooth LE advertisements from sensors that speak BTHomev2 and push it to a promethus pushgateway
+
+This requires some minor code adjustments for your home environment
+
+- Update known_device{} to add the mac address : friendly name to this dictionary
+- Update pushgateway_endpoint to be your pushgateway endpoint
+- Run collect_and_push_metrics.py in a screen session or similar
+
+This is very much a work in progress. It works for me, ymmv. No guarantees it will work for you, use at your own risk etc etc.

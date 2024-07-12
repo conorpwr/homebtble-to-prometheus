@@ -1,0 +1,15 @@
+bleak==0.22.2
+docutils==0.21.2
+iniconfig==2.0.0
+lockfile==0.12.2
+packaging==24.1
+pluggy==1.5.0
+prometheus_client==0.20.0
+pycryptodomex==3.20.0
+pyobjc-core==10.3.1
+pyobjc-framework-Cocoa==10.3.1
+pyobjc-framework-CoreBluetooth==10.3.1
+pyobjc-framework-libdispatch==10.3.1
+pytest==8.2.2
+python-daemon==3.0.1
+setuptools==70.3.0
